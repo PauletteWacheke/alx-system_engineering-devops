@@ -2,8 +2,7 @@
 #script that displays the content of the current directory in a list format
 #Displaying the part of the name after the first dash
 
-for file in *; do
-	if [[ $file == *-* ]]; then
-		echo "${file#*-}"
-	fi
+i=$(ls)
+for i in $i; do
+	echo "$i" | cut -d "-" -f2
 done
