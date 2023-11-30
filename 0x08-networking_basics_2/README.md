@@ -7,7 +7,11 @@ Localhost is also associated with the IP address 127.0.0.1¹². This IP address 
 
 In web development, you can develop a server by editing the code in the localhost and exporting your data to the server¹². This situation is also known as a loopback address¹². Like any other domain name, localhost also has an IP (Internet Protocol) address¹². The addresses range from 127.0.0.0 to 127.255.255.255, but it’s normally 127.0.0.1¹². Trying to open the address 127.0.0.1 in an IPv4 connection will trigger a loopback, referring you back to your own web server¹². You can also start a loopback back to your own server with an IPv6 connection by entering :1¹².
 
+<<<<<<< HEAD
 Source: 
+=======
+Source:
+>>>>>>> d1a6e79e9f293340ddb01795e623eecf907b8f0e
 (1) What Is the 127.0.0.1 IP Address, and How Do You Use It? - How-To Geek. https://www.howtogeek.com/789017/what-is-the-127.0.0.1-ip-address-and-how-do-you-use-it/.
 (2) What is localhost? How to connect to 127.0.0.1 - IONOS. https://www.ionos.com/digitalguide/server/know-how/localhost/.
 (3) What Is 127.0.0.1 Localhost? - Coding Ninjas. https://www.codingninjas.com/studio/library/127-0-0-1-localhost.
@@ -27,7 +31,11 @@ The IP address 0.0.0.0 has several uses, depending on the context¹²³⁴:
 
 Remember, the exact meaning of 0.0.0.0 can vary based on the context in which it's used.
 
+<<<<<<< HEAD
 Source: 
+=======
+Source:
+>>>>>>> d1a6e79e9f293340ddb01795e623eecf907b8f0e
 (1) Wildcard mask - Wikipedia. https://en.wikipedia.org/wiki/Wildcard_mask.
 (2) Understanding Sockets | DigitalOcean. https://www.digitalocean.com/community/tutorials/understanding-sockets.
 (3) How DORA Works? - GeeksforGeeks. https://www.geeksforgeeks.org/how-dora-works/.
